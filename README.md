@@ -8,11 +8,12 @@ The stripped down version of laravel which is lumen is great for api development
 framework. Great for API development and easy deployment. The similarity with laravel is uncanny.
 So, I have thought that it would be great for the Single page application development. I am primarily a react developer.
 This is a slimmed down package of lumen with any frontend Javascript support. This boilerplate has all. Just get it install it and you're on the 
-right track to develop and deploy any Single page applications which are heavily dependant on API
+right track to develop and deploy any Single page applications which are heavily dependent  on API
 
 ## Included with the package
 - Superfast Lumens framework
 - Webpack for bundling 
+- No specific Javascript Scaffolding
 - Laravel Mix for Javascript compiling and bundling among others.
 - Babel transcoder for ES6 (React Preset) -  change it anytime from package.json
 
